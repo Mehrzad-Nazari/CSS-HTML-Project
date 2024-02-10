@@ -1,2 +1,2 @@
-# sample project
-## description
+# this is my first sample html css project
+## 
